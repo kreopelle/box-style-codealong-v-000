@@ -216,7 +216,7 @@ header {
 /*////////// NAVBAR //////////*/
 
 #navbar {
-  
+  position: fixed;
 }
 
 
